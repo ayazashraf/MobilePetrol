@@ -1,0 +1,82 @@
+#body{
+	margin-top: -10px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 700px;
+	width: 822px;
+	padding-top: 5%;
+	background-color: #CCC;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: 0px 2px 2px 2px gray;
+	font-family: 'Segoe UI',Arial;
+}
+#logo{
+	width: 50%;
+	margin: 0 auto;
+}
+#logo_banner{
+	background-color: #dfdfdf;
+	height: 110px;
+}
+#login{
+	background-color: white;
+	width: 50%;
+	height: 120px;
+	margin: 20% auto;
+	border-radius: 10px;
+	font-family: 'Segoe UI',Arial;
+	font-size: 12px;
+	padding-left: 20px;
+	padding-top: 40px;
+	border: 1px solid #acacac;
+}
+#navMenu{
+	float: left;
+}
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;	
+}
+li
+{
+	float:left;
+}
+.nav:link,.nav:visited
+{
+	font-size: 12px;
+	display:block;
+	width:100px;
+	color:#FFFFFF;
+	background-color:#006bb7;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+.nav:hover,.nav:active
+{
+	background-color:#287dc0;
+}
+.window{
+	width:300px; 
+	height:230px; 
+	background-color: #dfdfdf; 
+	margin-left:60px; 
+	margin-top:60px;
+}
+.window_title{
+	width:292px;
+	height:23px;
+	background-color:#006bb7;
+	padding-left:8px;
+	padding-top:5px;
+	font-size:13px;
+	color:#FFFFFF;
+}
+.window_content{
+	margin-left:20px; 
+	font-size:12px;
+}
